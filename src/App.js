@@ -11,7 +11,7 @@ import Register from './components/Register/Register';
 // const Clarifai = require('clarifai');
 
 // const app = new Clarifai.App({
-//   apiKey: 'a4fc26a9cae1419d8982ab6677271247'
+//   apiKey: ''
 // });
 
 const particleParam = {
